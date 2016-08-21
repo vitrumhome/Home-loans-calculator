@@ -1,3 +1,12 @@
+## 项目目标
+
+* 输入一次贷款组合，同同时等额本金和等额本息两种试算
+* 提前还款试算
+
+
+
+
+
 Below you will find some information on how to perform common tasks.  
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/template/README.md).
 
